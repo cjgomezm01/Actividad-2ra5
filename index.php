@@ -1,5 +1,5 @@
 <body>
-	<h1>Projecte Welcome  1 Carlos Javier</h1>
+	<h1>Projecte Welcome 1 Carlos Javier</h1>
 	<ul>
 
 	<?php 
